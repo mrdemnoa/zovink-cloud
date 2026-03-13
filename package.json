@@ -1,0 +1,12 @@
+{
+  "name": "zovink-cloud-server",
+  "version": "1.0.0",
+  "description": "Cloud server for TurboWarp",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
